@@ -15,7 +15,7 @@ body {
 }
 
 .input__wrapper {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 15px;
@@ -33,7 +33,7 @@ body {
 }
 
 .card.mb-3 {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   background-color: azure;
@@ -50,7 +50,7 @@ body {
 }
 
 .card-text {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .list-group-item {
